@@ -14,8 +14,21 @@
               "type": "graph",
               "state": {}
             }
+          },
+          {
+            "id": "69b8d5892685c417",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Presentation.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -82,7 +95,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 220.5
+    "width": 281.5
   },
   "right": {
     "id": "b2e15f4ac013bdfc",
@@ -98,6 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Presentation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,6 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Presentation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,7 +139,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Presentation.md"
+              }
             }
           },
           {
@@ -151,11 +168,38 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-projects:Open projects": false,
-      "periodic-notes:Open today": false
+      "periodic-notes:Open today": false,
+      "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "3b034e9160e4ca72",
+  "active": "69b8d5892685c417",
   "lastOpenFiles": [
+    "export/presentation/plugin/chalkboard/README.md",
+    "export/presentation/plugin/chalkboard/_style.css",
+    "export/presentation/plugin/chalkboard/img/blackboard.png",
+    "export/presentation/plugin/chalkboard/img/boardmarker-black.png",
+    "export/presentation/plugin/chalkboard/img/boardmarker-blue.png",
+    "export/presentation/plugin/chalkboard/img/boardmarker-green.png",
+    "export/presentation/plugin/chalkboard/img/boardmarker-orange.png",
+    "export/presentation/plugin/chalkboard/img/boardmarker-purple.png",
+    "export/presentation/plugin/chalkboard/img/boardmarker-red.png",
+    "export/presentation/plugin/chalkboard/img/boardmarker-yellow.png",
+    "export/presentation/plugin/chalkboard/img/chalk-blue.png",
+    "export/presentation/plugin/chalkboard/img/chalk-green.png",
+    "export/presentation/plugin/chalkboard/img",
+    "export/presentation/plugin/chalkboard/style.css",
+    "export/presentation/plugin/chalkboard/plugin.js",
+    "export/presentation/plugin/chalkboard/plugin (copy).js",
+    "export/presentation/plugin/chalkboard",
+    "export/presentation/plugin/chart/plugin.js",
+    "export/presentation/plugin/chart/chart.min.js",
+    "export/presentation/plugin/chart/README.md",
+    "export/presentation/plugin/chart",
+    "export/presentation/plugin/customcontrols/style.css",
+    "export/presentation/plugin/customcontrols/README.md",
+    "export/presentation/plugin/menu/CONTRIBUTING.md",
+    "export/presentation/plugin/menu/README.md",
+    "Presentation.md",
     "paper/Decoding the Contents of Visual Short-Term Memory from Human Visual and Parietal Cortex.md",
     "paper/Dynamic reconfiguration of human brain networks during learning.md",
     "templates/zotero.md",
@@ -167,24 +211,13 @@
     "journal/2023-07.md",
     "templates/monthly.md",
     "visual short term memory.md",
-    "attachments/brain regions encoding VSTM.png",
     "README.md",
     "journal/2023-W28.md",
     "templates/weekly.md",
     "templates/daily.md",
-    "paper",
     "journal/2023-07-15.md",
     "2023-07-15.md",
-    "attachments",
-    "journal",
     "templates/permanent.md",
-    "templates/project-template.md",
-    "templates/paper-template.md",
-    "templates/agenda.md",
-    "templates/fleeting.md",
-    "templates/meeting-template.md",
-    "templates/kanban-template.md",
-    "templates/external-link.md",
-    "templates"
+    "templates/project-template.md"
   ]
 }
