@@ -1,0 +1,57 @@
+{
+  "version": 2,
+  "projects": [
+    {
+      "fieldConfig": {},
+      "defaultName": "",
+      "templates": [],
+      "excludedNotes": [],
+      "isDefault": false,
+      "dataSource": {
+        "kind": "dataview",
+        "config": {
+          "query": "TABLE WITHOUT ID first_author AS \"First author\", file.link AS \"File\", year AS Year, journal AS Journal, rating AS Rating, contribution AS Contribution\nFROM #paper AND !\"archive\" AND !\"templates\"\nSORT first_author asc"
+        }
+      },
+      "newNotesFolder": "",
+      "views": [
+        {
+          "config": {
+            "fieldConfig": {
+              "File": {
+                "width": 166
+              },
+              "Journal": {
+                "width": 194
+              },
+              "Contribution": {
+                "width": 573
+              }
+            }
+          },
+          "filter": {
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "2dfa0453-51cb-4ca8-b6af-6d149e60e84a",
+          "name": "Table",
+          "type": "table"
+        }
+      ],
+      "id": "35247bbb-0424-4ca5-927c-0a519778d8a6",
+      "name": "Litarature"
+    }
+  ],
+  "preferences": {
+    "projectSizeLimit": 1000,
+    "frontmatter": {
+      "quoteStrings": "PLAIN"
+    },
+    "commands": []
+  }
+}
