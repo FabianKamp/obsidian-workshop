@@ -3,8 +3,11 @@ tags: [permanent/todo]
 aliases:
 ---
 # description
+- Branch of neuroscience which considers the brain as network of multiple regions which are typically identified using a brain atlas. 
+- entails [[functional connectivity]] and [[structural connectivity]]
+
 ---
-# papers
+# links
 - [[Linked Sex Differences in Cognition and Functional Connectivity in Youth|satterthwaite.etal_2015]]
 - [[Dynamic reconfiguration of human brain networks during learning|bassett.etal_2011]]
 ---

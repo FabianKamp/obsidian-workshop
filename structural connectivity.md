@@ -5,6 +5,7 @@ aliases:
 # description
 ---
 # links
+- [[network neuroscience]]
 ---
 # references
 %% list of all the paper linked to this note %%

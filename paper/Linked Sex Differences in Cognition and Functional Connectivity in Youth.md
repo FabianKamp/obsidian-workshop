@@ -48,8 +48,7 @@ status: read
 ---
 # links 
 %% begin links %%
-- [functional connectivity]
-- [[Dynamic reconfiguration of human brain networks during learning|bassett.etal_2011]]
+- [[functional connectivity]]
 %% end links %%
 
 ---

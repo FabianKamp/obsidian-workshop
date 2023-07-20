@@ -13,12 +13,6 @@ first_{{creator.creatorType}}: {{creator.name}}
 last_{{creator.creatorType}}: {{creator.lastName}}, {{creator.firstName}} 
 {%- elif creator.name %}
 last_{{creator.creatorType}}: {{creator.name}}
-{%- endif -%}
-{%- else -%}
-{%- if creator.name == null %} 
-{{creator.creatorType}}: {{creator.lastName}}, {{creator.firstName}}
-{%- elif creator.name %}
-{{creator.creatorType}}: {{creator.name}}
 {%- endif -%} {%- endif -%} {%- endfor %}
 year: {{date | format("YYYY")}}     
 citekey: {{citekey}}
@@ -41,7 +35,6 @@ status: toread
 
 ---
 # synthesis
-%% add > contribution:: to make it accessible in dataview%%
 {% persist "synthesis" %}
 {% endpersist %}
 

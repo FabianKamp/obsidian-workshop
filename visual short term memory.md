@@ -5,7 +5,7 @@ aliases: VSTM
 # description
 - visual working memory extends to cortical areas beyond visual areas
 ---
-# papers
+# links
 ---
 # references
 %% list of all the paper linked to this note %%

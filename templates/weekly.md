@@ -3,6 +3,7 @@ tag: journal/weekly
 date: {{date:YYYY-[W]WW}}
 aliases:
 ---
+%% month: [[{{date:YYYY-MM}}]] %% 
 # agenda
 ```mermaid 
 gantt 
